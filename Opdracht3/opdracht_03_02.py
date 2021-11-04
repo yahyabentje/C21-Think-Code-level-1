@@ -1,5 +1,5 @@
 #geef een string waarde aan de variabele cookies
-cookies = 
+cookies = 'This is a cookie'
 print(cookies)
 print(type(cookies))
 

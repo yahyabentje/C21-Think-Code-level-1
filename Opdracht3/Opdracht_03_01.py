@@ -4,5 +4,5 @@ print(age) #regel 3
 print(type(age)) #regel 4
 
 email_address = "john.doe@me.com"
-print(email_address) #regel 5
+print(email_address) #regel 5   
 print(type(email_address)) #regel 6
